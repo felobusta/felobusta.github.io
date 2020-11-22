@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: CV and stuff
+title: 1234567
 
 # Your name to show in the footer
-author: Felipe Bustamante
+author: 123456
 
 # --- List of links in the navigation bar --- #
 
@@ -39,9 +39,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "fnbustam@uc.cl"
+  email: "abcd@gmail.com"
   facebook: deanattali
-  github: felobusta
+  github: abcd
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
